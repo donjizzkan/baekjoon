@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\2587.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|solutionrelative:2587.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\10093.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|solutionrelative:10093.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\run.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\problems.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|solutionrelative:problems.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\2587.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|solutionrelative:2587.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "10093.cpp",
+              "DocumentMoniker": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\10093.cpp",
+              "RelativeDocumentMoniker": "10093.cpp",
+              "ToolTip": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\10093.cpp*",
+              "RelativeToolTip": "10093.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T14:55:08.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "2587.cpp",
               "DocumentMoniker": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\2587.cpp",
               "RelativeDocumentMoniker": "2587.cpp",
               "ToolTip": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\2587.cpp",
               "RelativeToolTip": "2587.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-11T10:59:17.928Z",
               "EditorCaption": ""
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "problems.h",
               "ToolTip": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\problems.h",
               "RelativeToolTip": "problems.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-04T08:14:52.205Z",
               "EditorCaption": ""
@@ -58,7 +75,7 @@
               "RelativeDocumentMoniker": "run.cpp",
               "ToolTip": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\run.cpp",
               "RelativeToolTip": "run.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-04T08:09:25.995Z",
               "EditorCaption": ""

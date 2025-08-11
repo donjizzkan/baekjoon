@@ -5,3 +5,5 @@ void solve2480();
 void solve2490();
 void solve2576();
 void solve2587();
+void solve10093();
+void solve1267();
