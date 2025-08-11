@@ -128,6 +128,7 @@
     <ClCompile Include="2480.cpp" />
     <ClCompile Include="2490.cpp" />
     <ClCompile Include="2576.cpp" />
+    <ClCompile Include="2587.cpp" />
     <ClCompile Include="run.cpp" />
     <ClCompile Include="2309.cpp" />
   </ItemGroup>

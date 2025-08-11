@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\2576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|solutionrelative:2576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\2587.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|solutionrelative:2587.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\run.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2576.cpp",
-              "DocumentMoniker": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\2576.cpp",
-              "RelativeDocumentMoniker": "2576.cpp",
-              "ToolTip": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\2576.cpp*",
-              "RelativeToolTip": "2576.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Title": "2587.cpp",
+              "DocumentMoniker": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\2587.cpp",
+              "RelativeDocumentMoniker": "2587.cpp",
+              "ToolTip": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\2587.cpp",
+              "RelativeToolTip": "2587.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-04T17:55:30.79Z",
+              "WhenOpened": "2025-08-11T10:59:17.928Z",
               "EditorCaption": ""
             },
             {
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "problems.h",
               "ToolTip": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\problems.h",
               "RelativeToolTip": "problems.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-04T08:14:52.205Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "run.cpp",
               "ToolTip": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\run.cpp",
               "RelativeToolTip": "run.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-04T08:09:25.995Z",
               "EditorCaption": ""

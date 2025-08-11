@@ -4,3 +4,4 @@ void solve2309();
 void solve2480();
 void solve2490();
 void solve2576();
+void solve2587();
