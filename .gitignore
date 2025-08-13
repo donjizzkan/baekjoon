@@ -1,0 +1,11 @@
+# Visual Studio/IntelliSense cache
+.vs/
+*.ipch
+*.VC.db
+*.VC.opendb
+*.sdf
+*.user
+*.obj
+*.pch
+*.pdb
+
