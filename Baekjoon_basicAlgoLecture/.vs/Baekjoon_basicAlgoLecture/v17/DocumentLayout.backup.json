@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\",
+  "WorkspaceRootPath": "F:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\1267.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|solutionrelative:1267.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\run.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|F:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\run.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|solutionrelative:run.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\problems.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|F:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\2577.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|solutionrelative:2577.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|F:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\problems.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{68948686-BB3D-4945-9092-63E84563350A}|Baekjoon_basicAlgoLecture.vcxproj|solutionrelative:problems.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "1267.cpp",
-              "DocumentMoniker": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\1267.cpp",
-              "RelativeDocumentMoniker": "1267.cpp",
-              "ToolTip": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\1267.cpp",
-              "RelativeToolTip": "1267.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "2577.cpp",
+              "DocumentMoniker": "F:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\2577.cpp",
+              "RelativeDocumentMoniker": "2577.cpp",
+              "ToolTip": "F:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\2577.cpp",
+              "RelativeToolTip": "2577.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-11T15:18:55.723Z",
+              "WhenOpened": "2025-08-15T05:00:04.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "problems.h",
-              "DocumentMoniker": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\problems.h",
+              "DocumentMoniker": "F:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\problems.h",
               "RelativeDocumentMoniker": "problems.h",
-              "ToolTip": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\problems.h",
+              "ToolTip": "F:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\problems.h",
               "RelativeToolTip": "problems.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-04T08:14:52.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "run.cpp",
-              "DocumentMoniker": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\run.cpp",
+              "DocumentMoniker": "F:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\run.cpp",
               "RelativeDocumentMoniker": "run.cpp",
-              "ToolTip": "D:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\run.cpp",
-              "RelativeToolTip": "run.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ToolTip": "F:\\Sap_er\\Baekjoon\\Baekjoon_basicAlgoLecture\\run.cpp*",
+              "RelativeToolTip": "run.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-04T08:09:25.995Z",
               "EditorCaption": ""
