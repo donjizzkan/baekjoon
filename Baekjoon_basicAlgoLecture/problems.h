@@ -9,3 +9,4 @@ void solve10093();
 void solve1267();
 void solve10808();
 void solve2577();
+void solve1475();
