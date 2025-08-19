@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(void) {
-	solve1475();
+	solve3273();
 
 	return 0;
 }
